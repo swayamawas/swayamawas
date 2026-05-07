@@ -1,5 +1,8 @@
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Swayam%20Awasthi&fontSize=50&fontColor=70A5FD&animation=fadeIn" />
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Swayam+Awasthi;Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
@@ -78,12 +81,21 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 </p>
 
 ---
-
 ## 📊 Data & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,linux,vscode,canva" />
+  <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker,kubernetes" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+
 
 ---
 
