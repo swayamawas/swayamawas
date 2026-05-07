@@ -1,6 +1,7 @@
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Swayam%20Awasthi&fontSize=55&fontColor=70A5FD&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Cloud%20Engineer%20•%20AI%20Explorer&descAlignY=58&descSize=20" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Swayam%20Awasthi&fontSize=50&fontColor=70A5FD&animation=fadeIn" />
+
 
 
 
