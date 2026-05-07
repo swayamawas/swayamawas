@@ -87,13 +87,12 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
-
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamawas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=swayamawas&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamawas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swayamawas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -108,6 +107,22 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayamawas&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayamawas&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=swayamawas&theme=tokyonight" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swayamawas&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -119,8 +134,11 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swayamawas/swayamawas/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/swayamawas/swayamawas/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+
 
 ---
 
@@ -135,11 +153,13 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
-# 🌐 3D Contribution Graph
+# 🌍 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samra-x/github-stats-transparent/output/generated/overview.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swayamawas&theme=tokyonight" />
 </p>
+
+
 
 
 
