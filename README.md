@@ -1,4 +1,4 @@
-```md id="c0n3bz"
+
 <h1 align="center">Hi 👋, I'm Swayam Awasthi</h1>
 <h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
@@ -57,4 +57,4 @@
 <p align="center">
   ✨ Keep Learning • Keep Building • Keep Growing ✨
 </p>
-```
+
