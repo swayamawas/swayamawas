@@ -87,12 +87,16 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamawas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamawas&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamawas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamawas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
+
 
 ---
 
@@ -120,11 +124,14 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
+
 # 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/swayam_AWASTHI?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/swayam_AWASTHI?theme=dark&font=Baloo&ext=contest" />
 </p>
+
+
 
 ---
 
