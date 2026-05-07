@@ -135,6 +135,14 @@ Passion: Open Source • Problem Solving • Cloud Architecture
 
 ---
 
+# 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samra-x/github-stats-transparent/output/generated/overview.svg" />
+</p>
+
+
+
 # 🏆 GitHub Trophies
 
 <p align="center">
